@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+body {
+    font-family: "Lato", sans-serif;
+    width: 70%;
+    margin: auto;
+    display: grid;
+    grid-row-gap: 16px;
+
+    div {
+        display: grid;
+        grid-template-columns: 30% calc(70% - 16px);
+        grid-gap: 24px;
+
+        h1 {
+            font-family: inherit;
+            font-weight: 700;
+            text-align: center;
+            grid-column-start: span 2;
+            padding-bottom: 16px;
+            border-bottom: lightgray 2px solid;
+        }
+
+        img {
+            display: block;
+            width: 60%;
+            margin: auto;
+        }
+    }
+}

@@ -1,0 +1,386 @@
+[
+  {
+    "_id": {
+      "$oid": "686adfc7b8e493e21558bb3e"
+    },
+    "id": 1,
+    "anime": "Nihon Youkoso Elf-san",
+    "portada": "100.jpg",
+    "resumen": "101.txt",
+    "genero": [
+      {
+        "id": 2,
+        "genero": "COMEDIA"
+      },
+      {
+        "id": 3,
+        "genero": "SOBRENATURAL"
+      }
+    ],
+    "es_romance": true,
+    "recomendado": true
+  },
+  {
+    "_id": {
+      "$oid": "686adfc7b8e493e21558bb3f"
+    },
+    "id": 2,
+    "anime": "Yesterday wo Utatte",
+    "portada": "200.jpg",
+    "resumen": "201.txt;202.txt",
+    "genero": [
+      {
+        "id": 1,
+        "genero": "ROMANCE"
+      },
+      {
+        "id": 4,
+        "genero": "DRAMA"
+      },
+      {
+        "id": 5,
+        "genero": "SEINEN"
+      },
+      {
+        "id": 6,
+        "genero": "RECUENTOS"
+      }
+    ],
+    "es_romance": true,
+    "recomendado": true
+  },
+  {
+    "_id": {
+      "$oid": "686adfc7b8e493e21558bb40"
+    },
+    "id": 3,
+    "anime": "Oroka na Tenshi wa Akuma to Odoru",
+    "portada": "300.jpg",
+    "resumen": "301.txt",
+    "genero": [
+      {
+        "id": 1,
+        "genero": "ROMANCE"
+      },
+      {
+        "id": 2,
+        "genero": "COMEDIA"
+      },
+      {
+        "id": 3,
+        "genero": "SOBRENATURAL"
+      },
+      {
+        "id": 5,
+        "genero": "SEINEN"
+      },
+      {
+        "id": 7,
+        "genero": "ESCOLARES"
+      }
+    ],
+    "es_romance": true,
+    "recomendado": true
+  },
+  {
+    "_id": {
+      "$oid": "686adfc7b8e493e21558bb41"
+    },
+    "id": 4,
+    "anime": "Engage Kiss",
+    "portada": "400.jpg",
+    "resumen": "401.txt;402.txt;403.txt",
+    "genero": [
+      {
+        "id": 1,
+        "genero": "ROMANCE"
+      },
+      {
+        "id": 2,
+        "genero": "COMEDIA"
+      }
+    ],
+    "es_romance": true,
+    "recomendado": true
+  },
+  {
+    "_id": {
+      "$oid": "686adfc7b8e493e21558bb42"
+    },
+    "id": 5,
+    "anime": "Otonari ni Ginga",
+    "portada": "500.jpg",
+    "resumen": "501.txt;502.txt",
+    "genero": [
+      {
+        "id": 1,
+        "genero": "ROMANCE"
+      },
+      {
+        "id": 2,
+        "genero": "COMEDIA"
+      },
+      {
+        "id": 3,
+        "genero": "SOBRENATURAL"
+      },
+      {
+        "id": 5,
+        "genero": "SEINEN"
+      }
+    ],
+    "es_romance": true,
+    "recomendado": true
+  },
+  {
+    "_id": {
+      "$oid": "686adfc7b8e493e21558bb43"
+    },
+    "id": 6,
+    "anime": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi",
+    "portada": "600.jpg",
+    "resumen": "601.txt;602.txt",
+    "genero": [
+      {
+        "id": 1,
+        "genero": "ROMANCE"
+      },
+      {
+        "id": 7,
+        "genero": "ESCOLARES"
+      }
+    ],
+    "es_romance": true,
+    "recomendado": true
+  },
+  {
+    "_id": {
+      "$oid": "686adfc7b8e493e21558bb44"
+    },
+    "id": 7,
+    "anime": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+    "portada": "700.jpg",
+    "resumen": "701.txt;702.txt;703.txt",
+    "genero": [
+      {
+        "id": 1,
+        "genero": "ROMANCE"
+      },
+      {
+        "id": 2,
+        "genero": "COMEDIA"
+      },
+      {
+        "id": 7,
+        "genero": "ESCOLARES"
+      }
+    ],
+    "es_romance": true,
+    "recomendado": true
+  },
+  {
+    "_id": {
+      "$oid": "686adfc7b8e493e21558bb45"
+    },
+    "id": 8,
+    "anime": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
+    "portada": "800.jpg",
+    "resumen": "801.txt;802.txt",
+    "genero": [
+      {
+        "id": 1,
+        "genero": "ROMANCE"
+      },
+      {
+        "id": 2,
+        "genero": "COMEDIA"
+      },
+      {
+        "id": 3,
+        "genero": "SOBRENATURAL"
+      }
+    ],
+    "es_romance": true,
+    "recomendado": false
+  },
+  {
+    "_id": {
+      "$oid": "686adfc7b8e493e21558bb46"
+    },
+    "id": 9,
+    "anime": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
+    "portada": "900.jpg",
+    "resumen": "901.txt",
+    "genero": [
+      {
+        "id": 1,
+        "genero": "ROMANCE"
+      },
+      {
+        "id": 2,
+        "genero": "COMEDIA"
+      }
+    ],
+    "es_romance": false,
+    "recomendado": true
+  },
+  {
+    "_id": {
+      "$oid": "686adfc7b8e493e21558bb47"
+    },
+    "id": 10,
+    "anime": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+    "portada": "1000.jpg",
+    "resumen": "1001.txt;1002.txt",
+    "genero": [
+      {
+        "id": 1,
+        "genero": "ROMANCE"
+      },
+      {
+        "id": 2,
+        "genero": "COMEDIA"
+      },
+      {
+        "id": 7,
+        "genero": "ESCOLARES"
+      }
+    ],
+    "es_romance": false,
+    "recomendado": true
+  },
+  {
+    "_id": {
+      "$oid": "686adfc7b8e493e21558bb48"
+    },
+    "id": 11,
+    "anime": "Yamada-kun to Lv999 no Koi wo Suru",
+    "portada": "1100.jpg",
+    "resumen": "1101.txt;1102.txt",
+    "genero": [
+      {
+        "id": 1,
+        "genero": "ROMANCE"
+      }
+    ],
+    "es_romance": true,
+    "recomendado": false
+  },
+  {
+    "_id": {
+      "$oid": "686adfc7b8e493e21558bb49"
+    },
+    "id": 12,
+    "anime": "Haite Kudasai, Takamine-san",
+    "portada": "1200.jpg",
+    "resumen": "1201.txt;1202.txt;1203.txt;1204.txt",
+    "genero": [
+      {
+        "id": 1,
+        "genero": "ROMANCE"
+      },
+      {
+        "id": 2,
+        "genero": "COMEDIA"
+      },
+      {
+        "id": 7,
+        "genero": "ESCOLARES"
+      },
+      {
+        "id": 8,
+        "genero": "ECCHI"
+      },
+      {
+        "id": 9,
+        "genero": "SHOUNEN"
+      }
+    ],
+    "es_romance": true,
+    "recomendado": true
+  },
+  {
+    "_id": {
+      "$oid": "686adfc7b8e493e21558bb4a"
+    },
+    "id": 13,
+    "anime": "Hige wo Soru. Soshite Joshikousei wo Hirou",
+    "portada": "1300.jpg",
+    "resumen": "1301.txt;1302.txt;1303.txt",
+    "genero": [
+      {
+        "id": 1,
+        "genero": "ROMANCE"
+      },
+      {
+        "id": 4,
+        "genero": "DRAMA"
+      }
+    ],
+    "es_romance": true,
+    "recomendado": true
+  },
+  {
+    "_id": {
+      "$oid": "686adfc7b8e493e21558bb4b"
+    },
+    "id": 14,
+    "anime": "Gimai Seikatsu",
+    "portada": "1400.jpg",
+    "resumen": "1401.txt;1402.txt;1403.txt",
+    "genero": [
+      {
+        "id": 1,
+        "genero": "ROMANCE"
+      }
+    ],
+    "es_romance": true,
+    "recomendado": true
+  },
+  {
+    "_id": {
+      "$oid": "686adfc7b8e493e21558bb4c"
+    },
+    "id": 15,
+    "anime": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta",
+    "portada": "1500.jpg",
+    "resumen": "1501.txt;1502.txt;1503.txt;1504.txt",
+    "genero": [
+      {
+        "id": 1,
+        "genero": "ROMANCE"
+      },
+      {
+        "id": 2,
+        "genero": "COMEDIA"
+      }
+    ],
+    "es_romance": false,
+    "recomendado": true
+  },
+  {
+    "_id": {
+      "$oid": "686adfc7b8e493e21558bb4d"
+    },
+    "id": 16,
+    "anime": "Kuroiwa Medaka ni Watashi Kawaii ga Tsuujinai",
+    "portada": "1600.jpg",
+    "resumen": "1601.txt;1602.txt",
+    "genero": [
+      {
+        "id": 1,
+        "genero": "ROMANCE"
+      },
+      {
+        "id": 2,
+        "genero": "COMEDIA"
+      },
+      {
+        "id": 7,
+        "genero": "ESCOLARES"
+      }
+    ],
+    "es_romance": false,
+    "recomendado": true
+  }
+]
